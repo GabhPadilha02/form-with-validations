@@ -8,7 +8,7 @@
 ## Prints
 
 ### Desktop: 
-![image]()
+![image](https://raw.githubusercontent.com/GabhPadilha02/form-with-validations/main/prints/127.0.0.1_5500_index.html_%20(1).png)
 
 ### Mobile: 
-![image]()
+![image](https://raw.githubusercontent.com/GabhPadilha02/form-with-validations/main/prints/127.0.0.1_5500_index.html_(iPhone%20SE).png)
