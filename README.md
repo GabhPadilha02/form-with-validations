@@ -12,3 +12,6 @@
 
 ### Mobile: 
 ![image](https://raw.githubusercontent.com/GabhPadilha02/form-with-validations/main/prints/127.0.0.1_5500_index.html_(iPhone%20SE).png)
+
+## Netlify:
+[![Netlify Status](https://api.netlify.com/api/v1/badges/595f5883-cb70-4415-85d0-619e47be277b/deploy-status)](https://app.netlify.com/sites/form-with-validations/deploys)
